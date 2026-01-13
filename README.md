@@ -4,7 +4,7 @@ This repository demonstrates workflow templates (molds) which can be used by the
 ## 📦 Available Molds
 
 ### Create GitHub Repository
-**File:** `create-github-repo.json`
+**File:** `.shoehorn/github-repository.json`
 **Purpose:** Create a new GitHub repository with customizable settings
 
 **Inputs:**
